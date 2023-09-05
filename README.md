@@ -8,11 +8,7 @@
 
 # 工具界面
 
-https://raw.githubusercontent.com/ddwGeGe/WxAgentinfoCheck/d9d1a5f61b77b5eacdf0d3c93f871dcc3c698b5b/IMG/3.png
 
-https://raw.githubusercontent.com/ddwGeGe/WxAgentinfoCheck/d9d1a5f61b77b5eacdf0d3c93f871dcc3c698b5b/IMG/2.png
-
-https://raw.githubusercontent.com/ddwGeGe/WxAgentinfoCheck/d9d1a5f61b77b5eacdf0d3c93f871dcc3c698b5b/IMG/1.png
 
 
 # 存在BUG问题

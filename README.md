@@ -1,4 +1,4 @@
-![image](https://github.com/ddwGeGe/WxAgentinfoCheck/assets/44337217/5e68cafc-78c9-4c88-9336-b68e38618423)#  未授权访问漏洞检测小工具(WxAgenTinfoCheck)
+#  未授权访问漏洞检测小工具(WxAgenTinfoCheck)
 
 1、支持 AgenTinfo 未授权访问漏洞检测
 

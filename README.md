@@ -8,8 +8,11 @@
 
 # 工具界面
 
+https://github.com/ddwGeGe/WxAgentinfoCheck/blob/main/IMG/3.png
 
+https://github.com/ddwGeGe/WxAgentinfoCheck/blob/main/IMG/2.png
 
+https://github.com/ddwGeGe/WxAgentinfoCheck/blob/main/IMG/1.png
 
 # 存在BUG问题
 
